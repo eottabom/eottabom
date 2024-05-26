@@ -6,7 +6,7 @@
   </a>
 </span>
 
-## Work Experience
+### Work Experience
 ---
 
 NCSOFT ```(2020/07 ~ )``` <br>
