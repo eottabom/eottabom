@@ -1,3 +1,12 @@
+### Summary
+---
+
+As a software developer, I have experience in developing services in cdn, manufacturing, and game industries.
+I'm very interested in clean code, and I like refactoring legacy services based on new technologies.
+Currently I am in charge of community platform in NCSOFT, and more than 150+APIs consist of service mesh and gRPC.
+
+
+
 ### Github blog
 ---
 <span>
@@ -10,6 +19,7 @@
 ---
 
 NCSOFT ```(2020/07 ~ )``` <br>
+
 HYOSUNG ITX ```(2016/09 ~ 2020/06)```
 
 ### Skills
