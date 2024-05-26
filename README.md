@@ -9,4 +9,4 @@
 </a>
 
 
-<img src="https://github.com/eottabom/eottabom/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/eottabom/eottabom/blob/output/mysnake.svg" width="100%">
