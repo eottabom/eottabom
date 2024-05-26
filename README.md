@@ -1,5 +1,4 @@
 ### Github blog
-
 <span>
   <a href="https://eottabom.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
