@@ -1,4 +1,4 @@
-###
+### Github blog
 
 <span>
   <a href="https://eottabom.github.io">
@@ -7,7 +7,7 @@
 </span>
 
 ## Work Experience
-NCSOFT ```(2020/07 ~ )```
+NCSOFT ```(2020/07 ~ )``` <br>
 HYOSUNG ITX ```(2016/09 ~ 2020/06)```
 
 ### Skills
