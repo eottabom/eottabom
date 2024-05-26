@@ -1,4 +1,5 @@
 ### Github blog
+---
 <span>
   <a href="https://eottabom.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
@@ -6,10 +7,13 @@
 </span>
 
 ## Work Experience
+---
+
 NCSOFT ```(2020/07 ~ )``` <br>
 HYOSUNG ITX ```(2016/09 ~ 2020/06)```
 
 ### Skills
+---
 <span>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 </span>
