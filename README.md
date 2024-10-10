@@ -46,6 +46,27 @@ HYOSUNG ITX ```(2016/09 ~ 2020/06)```
 <span>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </span>
+<span>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Envoy-FF69B4?logo=envoyproxy&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white" />
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Armeria-282C34?logo=armeria&logoColor=white" />
+</span>
 
 
 <br><br><br>
