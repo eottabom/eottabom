@@ -85,5 +85,6 @@ HYOSUNG ITX ```(2016/09 ~ 2020/06)```
 <img src="https://github.com/eottabom/eottabom/blob/output/custom-snake.svg" width="100%">
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=eottabom)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eottabom)](https://github.com/eottabom)
+
 
