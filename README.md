@@ -11,7 +11,7 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 ---
 <span>
   <a href="https://eottabom.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GitHub%20Blog-red?style=plastic&logo=githubsponsors&logoColor=white"/>
   </a>
 </span>
 
