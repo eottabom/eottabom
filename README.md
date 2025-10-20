@@ -18,9 +18,9 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 ### Work Experience
 ---
 
-NCSOFT ```(2020/07 ~ )``` <br>
+NCSOFT ```(2020.07.06 ~ 2025.10.24)``` <br>
 
-HYOSUNG ITX ```(2016/09 ~ 2020/06)```
+HYOSUNG ITX ```(2016.09.05 ~ 2020.06.30)```
 
 ### Skills
 ---
