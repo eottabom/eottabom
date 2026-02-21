@@ -75,9 +75,7 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 <br><br>
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eottabom&theme=github_dark&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
