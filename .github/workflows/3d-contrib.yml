@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 23 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.email "action@github.com"
+          git config user.email "action@github.com [bot]"
           git config user.name "GitHub Action"
           git add profile-3d-contrib/
           git diff --cached --quiet || git commit -m "Update 3D contribution graph"

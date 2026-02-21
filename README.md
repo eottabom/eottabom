@@ -85,7 +85,7 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eottabom&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
-<img src="https://raw.githubusercontent.com/eottabom/eottabom/main/profile-3d-contrib/profile-night-green-animate.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/eottabom/eottabom/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 
 <img src="https://github.com/eottabom/eottabom/blob/output/custom-snake.svg" width="100%">
 
