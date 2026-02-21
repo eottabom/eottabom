@@ -11,16 +11,17 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 ---
 <span>
   <a href="https://eottabom.github.io">
-    <img src="https://img.shields.io/badge/GitHub%20Blog-red?style=plastic&logo=githubsponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </span>
 
 ### Work Experience
 ---
 
-NCSOFT ```(2020.07.06 ~ 2025.10.24)``` <br>
-
-HYOSUNG ITX ```(2016.09.05 ~ 2020.06.30)```
+| Company | Period |
+|---|---|
+| **NCSOFT** | 2020.07.06 ~ 2025.10.24 |
+| **HYOSUNG ITX** | 2016.09.05 ~ 2020.06.30 |
 
 ### Skills
 ---
@@ -69,22 +70,24 @@ HYOSUNG ITX ```(2016.09.05 ~ 2020.06.30)```
 </span>
 
 
-<br><br><br>
+<br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eottabom&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&cache_seconds=1800" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=eottabom&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
+| | | |
+|---|---|---|
+| [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://streak-stats.demolab.com?user=eottabom&theme=github-dark-blue&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=fff&sideNums=fff&currStreakNum=fff&dates=aaa" width="100%"  alt=""/>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eottabom&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eottabom&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
+<img src="https://raw.githubusercontent.com/eottabom/eottabom/main/profile-3d-contrib/profile-night-green-animate.svg" width="100%" />
 
 <img src="https://github.com/eottabom/eottabom/blob/output/custom-snake.svg" width="100%">
 
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eottabom)](https://github.com/eottabom)
-
+![](https://komarev.com/ghpvc/?username=eottabom&style=flat-square&color=58A6FF&label=visitors)
 
