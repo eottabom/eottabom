@@ -1,8 +1,3 @@
-[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
----
-
 ### Summary
 ---
 
@@ -80,15 +75,13 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eottabom&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <img src="https://streak-stats.demolab.com?user=eottabom&theme=github-dark-blue&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=fff&sideNums=fff&currStreakNum=fff&dates=aaa" width="100%"  alt=""/>
+
+<img src="https://raw.githubusercontent.com/eottabom/eottabom/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eottabom&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
-
-<img src="https://raw.githubusercontent.com/eottabom/eottabom/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 
 <img src="https://github.com/eottabom/eottabom/blob/output/custom-snake.svg" width="100%">
 
