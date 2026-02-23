@@ -9,17 +9,8 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 
 ### GitHub Pages
 ---
-<span>
-  <a href="https://eottabom.github.io" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://eottabom.github.io/toolkit/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Dev--Tool--kit-2F855A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</span>
+[![GitHub Blog](https://img.shields.io/badge/GitHub%20Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://eottabom.github.io)
+[![Dev-Tool-kit](https://img.shields.io/badge/Dev--Tool--kit-2F855A?style=for-the-badge&logo=github&logoColor=white)](https://eottabom.github.io/toolkit/)
 
 ### Work Experience
 ---
