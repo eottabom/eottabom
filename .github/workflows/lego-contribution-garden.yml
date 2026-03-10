@@ -13,6 +13,9 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: lego-contribution-garden
     steps:
       - uses: actions/checkout@v4
 
@@ -29,10 +32,11 @@ jobs:
         run: node dist/index.js
 
       - name: Commit
+        working-directory: .
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add lego-contribution-garden/output/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
