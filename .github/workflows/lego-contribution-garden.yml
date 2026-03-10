@@ -1,11 +1,7 @@
 name: 🍀 Generate LEGO Contribution Garden
 
 on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
+  workflow_call:
   workflow_dispatch:
 
 permissions:
@@ -17,12 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: eottabom/readme-playground/lego-contribution-garden@main
+      - uses: eottabom/readme-playground/lego-contribution-garden@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -31,5 +27,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update LEGO garden"
+            git pull --rebase
             git push
           fi
