@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: eottabom/readme-playground/lego-contribution-garden@v1.0.0
         with:
@@ -22,11 +24,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
           git add output/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "chore: update LEGO garden"
-            git pull --rebase
             git push
           fi
