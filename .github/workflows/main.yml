@@ -1,7 +1,8 @@
 name: generate animation
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # GitHub Actions cron uses UTC. 15:00 UTC = 00:00 KST.
+    - cron: "0 15 * * *"
   workflow_dispatch:
   push:
     branches:
