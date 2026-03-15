@@ -20,7 +20,7 @@
   </text>
   <text x="362" y="42" text-anchor="middle" font-size="11" fill="#57606a"
         font-family="-apple-system, BlinkMacSystemFont, sans-serif">
-    862 contributions in the last year
+    867 contributions in the last year
   </text>
 
   <!-- Cycle clock -->
@@ -2174,8 +2174,8 @@
       
 
         <rect x="662" y="60" width="10" height="10" rx="2"
-              fill="#9be9a8">
-          <title>2026-03-15: 6 contributions</title>
+              fill="#40c463">
+          <title>2026-03-15: 11 contributions</title>
         </rect>
       
   </g>
@@ -9474,9 +9474,9 @@
         
 
         <path d="M 516.5,189 L 527.5,189 L 529,203 L 515,203 Z"
-              fill="#9be9a8" opacity="0">
+              fill="#40c463" opacity="0">
           <animate attributeName="opacity" values="0;0;0.7;0.7;0;0" keyTimes="0;0.8235;0.8471;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
-          <title>2026-03-15: 6 contributions</title>
+          <title>2026-03-15: 11 contributions</title>
         </path>
       
 
@@ -9495,34 +9495,68 @@
       
 
           <line x1="516" y1="189" x2="516" y2="189"
-                stroke="#82d08f" stroke-width="2.302090927762765" stroke-linecap="round" opacity="0">
+                stroke="#27ab4a" stroke-width="2.302090927762765" stroke-linecap="round" opacity="0">
             <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8529;0.8588;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
-            <animate attributeName="y2" values="189;189;176.52292582471546;176.52292582471546;189;189" keyTimes="0;0.8529;0.9118;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="189;189;165.8282908173287;165.8282908173287;189;189" keyTimes="0;0.8529;0.9118;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
             <animate attributeName="x2"
                      values="516;519.595954549588;516"
                      dur="2.539499382627332s" begin="cycle.begin+15.499999999999998s" repeatCount="indefinite"/>
           </line>
         
 
-          <line x1="522" y1="189" x2="522" y2="189"
-                stroke="#9be9a8" stroke-width="2.6009233209675586" stroke-linecap="round" opacity="0">
+            <path d="M 516,189 Q 517.797977274794,189 516,189" stroke="none"
+                  fill="#27ab4a" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8853;0.9;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 516,168.8282908173287 Q 517.0787863648764,167.8282908173287 516,168.8282908173287;M 516,168.8282908173287 Q 517.0787863648764,167.8282908173287 516,168.8282908173287;M 513,166.8282908173287 Q 517.797977274794,163.8282908173287 519,166.8282908173287;M 513,166.8282908173287 Q 517.797977274794,163.8282908173287 519,166.8282908173287;M 516,168.8282908173287 Q 517.0787863648764,167.8282908173287 516,168.8282908173287;M 516,168.8282908173287 Q 517.0787863648764,167.8282908173287 516,168.8282908173287" keyTimes="0;0.8853;0.9088;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="520" y1="189" x2="520" y2="189"
+                stroke="#40c463" stroke-width="2.6009233209675586" stroke-linecap="round" opacity="0">
             <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8553;0.8612;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
-            <animate attributeName="y2" values="189;189;180.26550706460876;180.26550706460876;189;189" keyTimes="0;0.8553;0.9141;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="189;189;172.7787988342734;172.7787988342734;189;189" keyTimes="0;0.8553;0.9141;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
             <animate attributeName="x2"
-                     values="522;520.9657093009719;522"
+                     values="520;518.9657093009719;520"
                      dur="1.752568350606316s" begin="cycle.begin+15.539999999999997s" repeatCount="indefinite"/>
           </line>
         
 
-          <line x1="528" y1="189" x2="528" y2="189"
-                stroke="#affdbc" stroke-width="2.713434399147809" stroke-linecap="round" opacity="0">
+          <line x1="524" y1="189" x2="524" y2="189"
+                stroke="#54d877" stroke-width="2.713434399147809" stroke-linecap="round" opacity="0">
             <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8576;0.8635;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
-            <animate attributeName="y2" values="189;189;179.15729410687618;179.15729410687618;189;189" keyTimes="0;0.8576;0.9165;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="189;189;170.7206890556272;170.7206890556272;189;189" keyTimes="0;0.8576;0.9165;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
             <animate attributeName="x2"
-                     values="528;529.6080342828282;528"
+                     values="524;525.6080342828282;524"
                      dur="2.5674972667539806s" begin="cycle.begin+15.579999999999998s" repeatCount="indefinite"/>
           </line>
         
+
+            <path d="M 524,189 Q 524.8040171414141,189 524,189" stroke="none"
+                  fill="#54d877" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.89;0.9047;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 524,173.7206890556272 Q 524.4824102848485,172.7206890556272 524,173.7206890556272;M 524,173.7206890556272 Q 524.4824102848485,172.7206890556272 524,173.7206890556272;M 521,171.7206890556272 Q 524.8040171414141,168.7206890556272 527,171.7206890556272;M 521,171.7206890556272 Q 524.8040171414141,168.7206890556272 527,171.7206890556272;M 524,173.7206890556272 Q 524.4824102848485,172.7206890556272 524,173.7206890556272;M 524,173.7206890556272 Q 524.4824102848485,172.7206890556272 524,173.7206890556272" keyTimes="0;0.89;0.9135;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="528" y1="189" x2="528" y2="189"
+                stroke="#27ab4a" stroke-width="1.9699665393243777" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.86;0.8659;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="189;189;170.30955365738555;170.30955365738555;189;189" keyTimes="0;0.86;0.9188;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="528;524.6696000403936;528"
+                     dur="2.7916437346067142s" begin="cycle.begin+15.619999999999997s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 528,189 Q 526.3348000201968,189 528,189" stroke="none"
+                  fill="#27ab4a" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8924;0.9071;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 528,173.30955365738555 Q 527.000880012118,172.30955365738555 528,173.30955365738555;M 528,173.30955365738555 Q 527.000880012118,172.30955365738555 528,173.30955365738555;M 525,171.30955365738555 Q 526.3348000201968,168.30955365738555 531,171.30955365738555;M 525,171.30955365738555 Q 526.3348000201968,168.30955365738555 531,171.30955365738555;M 528,173.30955365738555 Q 527.000880012118,172.30955365738555 528,173.30955365738555;M 528,173.30955365738555 Q 527.000880012118,172.30955365738555 528,173.30955365738555" keyTimes="0;0.8924;0.9159;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
   </g>
 
   <!-- LEGO Minifigure -->
