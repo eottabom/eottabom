@@ -20,7 +20,7 @@ jobs:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: eottabom/readme-playground/streak-stats@v1.0.0
+      - uses: eottabom/readme-playground/streak-stats@main
         with:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
