@@ -9,6 +9,10 @@ on:
     - cron: "0 15 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-readme-graphs
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -23,6 +27,6 @@ jobs:
     secrets: inherit
 
   generate-streak-stats:
-    needs: generate-3d
+    needs: generate-lego
     uses: ./.github/workflows/streak-stats.yml
     secrets: inherit
