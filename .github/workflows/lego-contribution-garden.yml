@@ -20,6 +20,19 @@ jobs:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      - uses: eottabom/readme-playground/streak-stats@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          bg_color: 20232a
+          border_color: 20232a
+          title_color: fff
+          value_color: fff
+          label_color: fff
+          accent_color: 58A6FF
+          date_color: aaa
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"

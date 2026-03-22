@@ -73,7 +73,8 @@ Currently I am in charge of community platform in NCSOFT, and more than 150+APIs
 <p>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark" width="32%" /></a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark" width="32%" /></a>
-  <img src="https://streak-stats.demolab.com?user=eottabom&theme=github-dark-blue&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=fff&sideNums=fff&currStreakNum=fff&dates=aaa" width="32%" alt=""/>
+  [//]: # (<img src="https://streak-stats.demolab.com?user=eottabom&theme=github-dark-blue&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=fff&sideNums=fff&currStreakNum=fff&dates=aaa" width="32%" alt=""/>)
+  <img src="https://raw.githubusercontent.com/eottabom/eottabom/main/output/streak-stats.svg" width="32%" alt=""/>
 </p>
 
 <img src="https://raw.githubusercontent.com/eottabom/eottabom/main/output/lego-garden.svg" width="100%" />
