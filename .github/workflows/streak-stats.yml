@@ -1,4 +1,4 @@
-name: 🍀 Generate LEGO Contribution Garden
+name: Generate GitHub Streak Stats
 
 on:
   workflow_call:
@@ -15,23 +15,31 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: eottabom/readme-playground/lego-contribution-garden@v1.0.0
+      - uses: eottabom/readme-playground/streak-stats@main
         with:
           github_username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          bg_color: 20232a
+          border_color: 20232a
+          title_color: fff
+          value_color: fff
+          label_color: fff
+          accent_color: 58A6FF
+          date_color: aaa
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add output/streak-stats.svg
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git stash
             git pull --rebase
             git stash pop
-            git add output/
-            git commit -m "chore: update LEGO garden"
+            git add output/streak-stats.svg
+            git commit -m "chore: update streak stats"
             git push
           fi

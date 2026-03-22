@@ -21,3 +21,8 @@ jobs:
     needs: generate-3d
     uses: ./.github/workflows/lego-contribution-garden.yml
     secrets: inherit
+
+  generate-streak-stats:
+    needs: generate-3d
+    uses: ./.github/workflows/streak-stats.yml
+    secrets: inherit
