@@ -20,7 +20,7 @@
   </text>
   <text x="362" y="42" text-anchor="middle" font-size="11" fill="#57606a"
         font-family="-apple-system, BlinkMacSystemFont, sans-serif">
-    1187 contributions in the last year
+    1212 contributions in the last year
   </text>
 
   <!-- Cycle clock -->
@@ -2188,6 +2188,12 @@
         <rect x="662" y="84" width="10" height="10" rx="2"
               fill="#9be9a8">
           <title>2026-04-07: 7 contributions</title>
+        </rect>
+      
+
+        <rect x="662" y="96" width="10" height="10" rx="2"
+              fill="#30a14e">
+          <title>2026-04-08: 25 contributions</title>
         </rect>
       
   </g>
@@ -4437,6 +4443,27 @@
         </g>
       
 
+        <g>
+          <ellipse cx="543" cy="189" rx="2" ry="2.8" fill="#8B6914" opacity="0"
+                   transform="rotate(30,543,189)">
+            <animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.7876;0.7906;0.8112;0.8171;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cx" values="543;543;532.5;522;522;543;543" keyTimes="0;0.7876;0.7994;0.8112;0.95;0.955;1" keySplines="0 0 1 1;0.3 0 0.7 1;0.3 0 0.7 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="189;189;174;247;247;189;189" keyTimes="0;0.7876;0.7994;0.8112;0.95;0.955;1" keySplines="0 0 1 1;0.1 0 0.5 1;0.5 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </ellipse>
+          <circle cx="519" cy="249" r="1.5" fill="#8B7355" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.8082;0.8171;0.8259;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="249;249;244;244;249;249" keyTimes="0;0.8082;0.8259;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="525" cy="249" r="1.2" fill="#8B7355" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.4;0;0" keyTimes="0;0.8094;0.8168;0.8241;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="249;249;243;243;249;249" keyTimes="0;0.8094;0.8241;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="522" cy="247" r="1.5" fill="#6B5310" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8082;0.8259;0.8494;0.8671;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+        </g>
+      
+
     <!-- Garden: watering -->
     
           <circle cx="313.14285714285717" cy="175" r="1.5" fill="#56c4f5" opacity="0">
@@ -6461,6 +6488,33 @@
         <circle cx="522" cy="230" r="0" fill="none" stroke="#56c4f5" stroke-width="0.6" opacity="0">
           <animate attributeName="opacity" values="0;0;0.3;0;0" keyTimes="0;0.8241;0.8374;0.8506;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
           <animate attributeName="r" values="0;0;7;7;0;0" keyTimes="0;0.8241;0.8506;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+        </circle>
+      
+
+          <circle cx="612.1428571428571" cy="175" r="1.5" fill="#56c4f5" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.7;0.3;0;0" keyTimes="0;0.8112;0.819;0.8269;0.8347;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cx" values="612.1428571428571;612.1428571428571;565.5714285714286;519;519;612.1428571428571;612.1428571428571" keyTimes="0;0.8112;0.8215;0.8318;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="175;175;167;247;247;175;175" keyTimes="0;0.8112;0.8215;0.8318;0.95;0.955;1" keySplines="0 0 1 1;0.1 0 0.5 1;0.5 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+        
+
+          <circle cx="612.1428571428571" cy="175" r="1.5" fill="#56c4f5" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.7;0.3;0;0" keyTimes="0;0.8135;0.8214;0.8292;0.8371;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cx" values="612.1428571428571;612.1428571428571;567.0714285714286;522;522;612.1428571428571;612.1428571428571" keyTimes="0;0.8135;0.8238;0.8341;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="175;175;167;247;247;175;175" keyTimes="0;0.8135;0.8238;0.8341;0.95;0.955;1" keySplines="0 0 1 1;0.1 0 0.5 1;0.5 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+        
+
+          <circle cx="612.1428571428571" cy="175" r="1.5" fill="#56c4f5" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.7;0.3;0;0" keyTimes="0;0.8159;0.8237;0.8316;0.8394;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cx" values="612.1428571428571;612.1428571428571;568.5714285714286;525;525;612.1428571428571;612.1428571428571" keyTimes="0;0.8159;0.8262;0.8365;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="175;175;167;247;247;175;175" keyTimes="0;0.8159;0.8262;0.8365;0.95;0.955;1" keySplines="0 0 1 1;0.1 0 0.5 1;0.5 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </circle>
+        
+
+        <circle cx="522" cy="247" r="0" fill="none" stroke="#56c4f5" stroke-width="0.6" opacity="0">
+          <animate attributeName="opacity" values="0;0;0.3;0;0" keyTimes="0;0.8259;0.8391;0.8524;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          <animate attributeName="r" values="0;0;7;7;0;0" keyTimes="0;0.8259;0.8524;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
         </circle>
       
 
@@ -12340,6 +12394,124 @@
                      values="528;530.851399333862;528"
                      dur="2.7691234639123423s" begin="cycle.begin+15.659999999999998s" repeatCount="indefinite"/>
           </line>
+        
+
+        <path d="M 516.5,240 L 527.5,240 L 529,254 L 515,254 Z"
+              fill="#30a14e" opacity="0">
+          <animate attributeName="opacity" values="0;0;0.7;0.7;0;0" keyTimes="0;0.8306;0.8541;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          <title>2026-04-08: 25 contributions</title>
+        </path>
+      
+
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8365;0.8441;0.8671;0.9129;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          <line x1="522" y1="240" x2="522" y2="240" stroke="#7dc97d" stroke-width="1.5" stroke-linecap="round">
+            <animate attributeName="y2" values="240;240;235;235;240;240" keyTimes="0;0.8365;0.8541;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </line>
+          <ellipse cx="520" cy="235" rx="2" ry="1.5" fill="#9be9a8" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.8;0.8;0;0" keyTimes="0;0.8453;0.8571;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse cx="524" cy="235" rx="2" ry="1.5" fill="#9be9a8" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.8;0.8;0;0" keyTimes="0;0.8482;0.86;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </ellipse>
+        </g>
+      
+
+          <line x1="516" y1="240" x2="516" y2="240"
+                stroke="#178835" stroke-width="1.8609913429787412" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.86;0.8659;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="240;240;209.55693330284703;209.55693330284703;240;240" keyTimes="0;0.86;0.9188;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="516;517.732908005687;516"
+                     dur="2.160396130965728s" begin="cycle.begin+15.619999999999997s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 516,240 Q 516.8664540028435,240 516,240" stroke="none"
+                  fill="#178835" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8924;0.9071;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 516,212.55693330284703 Q 516.5198724017062,211.55693330284703 516,212.55693330284703;M 516,212.55693330284703 Q 516.5198724017062,211.55693330284703 516,212.55693330284703;M 513,210.55693330284703 Q 516.8664540028435,207.55693330284703 519,210.55693330284703;M 513,210.55693330284703 Q 516.8664540028435,207.55693330284703 519,210.55693330284703;M 516,212.55693330284703 Q 516.5198724017062,211.55693330284703 516,212.55693330284703;M 516,212.55693330284703 Q 516.5198724017062,211.55693330284703 516,212.55693330284703" keyTimes="0;0.8924;0.9159;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="519" y1="240" x2="519" y2="240"
+                stroke="#30a14e" stroke-width="2.640267659417441" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8624;0.8682;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="240;240;210.9804098180757;210.9804098180757;240;240" keyTimes="0;0.8624;0.9212;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="519;515.6877490271845;519"
+                     dur="2.5428690885697507s" begin="cycle.begin+15.659999999999997s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 519,240 Q 517.3438745135923,240 519,240" stroke="none"
+                  fill="#30a14e" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8947;0.9094;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 519,213.9804098180757 Q 518.0063247081554,212.9804098180757 519,213.9804098180757;M 519,213.9804098180757 Q 518.0063247081554,212.9804098180757 519,213.9804098180757;M 516,211.9804098180757 Q 517.3438745135923,208.9804098180757 522,211.9804098180757;M 516,211.9804098180757 Q 517.3438745135923,208.9804098180757 522,211.9804098180757;M 519,213.9804098180757 Q 518.0063247081554,212.9804098180757 519,213.9804098180757;M 519,213.9804098180757 Q 518.0063247081554,212.9804098180757 519,213.9804098180757" keyTimes="0;0.8947;0.9182;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="522" y1="240" x2="522" y2="240"
+                stroke="#44b562" stroke-width="2.780348571365175" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8647;0.8706;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="240;240;204.67569047283177;204.67569047283177;240;240" keyTimes="0;0.8647;0.9235;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="522;525.6022646424012;522"
+                     dur="1.6006057406471883s" begin="cycle.begin+15.699999999999998s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 522,240 Q 523.8011323212006,240 522,240" stroke="none"
+                  fill="#44b562" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8971;0.9118;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 522,207.67569047283177 Q 523.0806793927204,206.67569047283177 522,207.67569047283177;M 522,207.67569047283177 Q 523.0806793927204,206.67569047283177 522,207.67569047283177;M 519,205.67569047283177 Q 523.8011323212006,202.67569047283177 525,205.67569047283177;M 519,205.67569047283177 Q 523.8011323212006,202.67569047283177 525,205.67569047283177;M 522,207.67569047283177 Q 523.0806793927204,206.67569047283177 522,207.67569047283177;M 522,207.67569047283177 Q 523.0806793927204,206.67569047283177 522,207.67569047283177" keyTimes="0;0.8971;0.9206;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="525" y1="240" x2="525" y2="240"
+                stroke="#178835" stroke-width="2.641570428169871" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8671;0.8729;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="240;240;200.37724219087977;200.37724219087977;240;240" keyTimes="0;0.8671;0.9259;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="525;523.9483597744943;525"
+                     dur="2.917267422504301s" begin="cycle.begin+15.739999999999997s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 525,240 Q 524.4741798872471,240 525,240" stroke="none"
+                  fill="#178835" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.8994;0.9141;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 525,203.37724219087977 Q 524.6845079323483,202.37724219087977 525,203.37724219087977;M 525,203.37724219087977 Q 524.6845079323483,202.37724219087977 525,203.37724219087977;M 522,201.37724219087977 Q 524.4741798872471,198.37724219087977 528,201.37724219087977;M 522,201.37724219087977 Q 524.4741798872471,198.37724219087977 528,201.37724219087977;M 525,203.37724219087977 Q 524.6845079323483,202.37724219087977 525,203.37724219087977;M 525,203.37724219087977 Q 524.6845079323483,202.37724219087977 525,203.37724219087977" keyTimes="0;0.8994;0.9229;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <line x1="528" y1="240" x2="528" y2="240"
+                stroke="#30a14e" stroke-width="2.6760690878620155" stroke-linecap="round" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.8694;0.8753;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="240;240;215.36294617169915;215.36294617169915;240;240" keyTimes="0;0.8694;0.9282;0.95;0.955;1" keySplines="0 0 1 1;0.05 0.9 0.25 1;0 0 1 1;0 0 1 1;0 0 1 1" calcMode="spline" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="x2"
+                     values="528;529.7075400229822;528"
+                     dur="1.8228224187392699s" begin="cycle.begin+15.779999999999998s" repeatCount="indefinite"/>
+          </line>
+        
+
+            <path d="M 528,240 Q 528.8537700114911,240 528,240" stroke="none"
+                  fill="#30a14e" opacity="0">
+              <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" keyTimes="0;0.9018;0.9165;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+              <animate attributeName="d"
+                       values="M 528,218.36294617169915 Q 528.5122620068946,217.36294617169915 528,218.36294617169915;M 528,218.36294617169915 Q 528.5122620068946,217.36294617169915 528,218.36294617169915;M 525,216.36294617169915 Q 528.8537700114911,213.36294617169915 531,216.36294617169915;M 525,216.36294617169915 Q 528.8537700114911,213.36294617169915 531,216.36294617169915;M 528,218.36294617169915 Q 528.5122620068946,217.36294617169915 528,218.36294617169915;M 528,218.36294617169915 Q 528.5122620068946,217.36294617169915 528,218.36294617169915" keyTimes="0;0.9018;0.9253;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            </path>
+          
+
+          <ellipse cx="522" cy="238" rx="0" ry="0" fill="#30a14e" opacity="0">
+            <animate attributeName="opacity" values="0;0;0.3;0.3;0;0" keyTimes="0;0.8776;0.8953;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="rx" values="0;0;8;8;0;0" keyTimes="0;0.8776;0.9071;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+            <animate attributeName="ry" values="0;0;4;4;0;0" keyTimes="0;0.8776;0.9071;0.95;0.955;1" dur="17s" begin="cycle.begin" repeatCount="indefinite"/>
+          </ellipse>
         
   </g>
 
