@@ -10,9 +10,9 @@
     <path d="M12 6C11 8.5 8 10.5 8 14C8 16.2 9.8 18 12 18C14.2 18 16 16.2 16 14C16 10.5 13 8.5 12 6Z" fill="#58A6FF" opacity="0.6"/>
     <path d="M12 10C11.3 11.5 10 12.8 10 14.5C10 15.6 10.9 16.5 12 16.5C13.1 16.5 14 15.6 14 14.5C14 12.8 12.7 11.5 12 10Z" fill="#FFF3E0" opacity="0.8"/>
   </g>
-    <text x="0" y="48" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; fill: #58A6FF">94</text>
+    <text x="0" y="48" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; fill: #58A6FF">95</text>
     <text x="0" y="70" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #fff">Current Streak</text>
-    <text x="0" y="88" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: #aaa">Feb 1 - May 5</text>
+    <text x="0" y="88" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: #aaa">Feb 1 - May 6</text>
   </g>
   <line x1="225" y1="52" x2="225" y2="158"
         stroke="#20232a" stroke-opacity="0.25"/>
@@ -20,8 +20,8 @@
     <g transform="translate(-12, -2) scale(0.9)">
     <path d="M5 3H19V5H20C21.1 5 22 5.9 22 7V8C22 9.65 20.87 11.05 19.35 11.45C18.55 13.54 16.65 15.08 14.35 15.45L15 17H17V19H7V17H9L9.65 15.45C7.35 15.08 5.45 13.54 4.65 11.45C3.13 11.05 2 9.65 2 8V7C2 5.9 2.9 5 4 5H5V3ZM5 7H4V8C4 8.63 4.4 9.16 4.94 9.38C4.97 8.55 5 7.73 5 7ZM19 7V8C19 8.63 18.6 9.16 18.06 9.38C18.03 8.55 19 7.73 19 7ZM12 13C14.21 13 16 11.21 16 9V5H8V9C8 11.21 9.79 13 12 13Z" fill="#58A6FF" opacity="0.85"/>
   </g>
-    <text x="0" y="48" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; fill: #fff">94</text>
+    <text x="0" y="48" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; fill: #fff">95</text>
     <text x="0" y="70" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #fff">Longest Streak</text>
-    <text x="0" y="88" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: #aaa">Feb 1 - May 5</text>
+    <text x="0" y="88" text-anchor="middle" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: #aaa">Feb 1 - May 6</text>
   </g>
 </svg>
