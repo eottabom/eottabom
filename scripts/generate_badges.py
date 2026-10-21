@@ -27,6 +27,9 @@ PADDING = 8
 BADGES = {
     "engine-antigravity": ("antigravity", "antigravity", "solid", ("#1a73e8", "#ffffff"), ("#4285f4", "#ffffff")),
     "engine-gemini": ("gemini", "gemini", "solid", ("#1a73e8", "#ffffff"), ("#4285f4", "#ffffff")),
+    "mode-review": ("review", "review", "outline", ("#57606a",), ("#8b949e",)),
+    "mode-fix": ("fix", "fix", "outline", ("#57606a",), ("#8b949e",)),
+    "mode-dev": ("dev", "dev", "outline", ("#57606a",), ("#8b949e",)),
     "status-running": ("running", "Running", "solid", ("#9a6700", "#ffffff"), ("#bb8009", "#ffffff")),
     "status-done": ("done", "Done", "solid", ("#1a7f37", "#ffffff"), ("#238636", "#ffffff")),
     "status-failed": ("failed", "Failed", "solid", ("#cf222e", "#ffffff"), ("#da3633", "#ffffff")),
