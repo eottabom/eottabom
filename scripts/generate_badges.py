@@ -26,6 +26,7 @@ PADDING = 8
 # solid: (배경, 글자), outline: (테두리·글자)
 BADGES = {
     "engine-antigravity": ("antigravity", "antigravity", "solid", ("#1a73e8", "#ffffff"), ("#4285f4", "#ffffff")),
+    "engine-gemini": ("gemini", "gemini", "solid", ("#1a73e8", "#ffffff"), ("#4285f4", "#ffffff")),
     "status-running": ("running", "Running", "solid", ("#9a6700", "#ffffff"), ("#bb8009", "#ffffff")),
     "status-done": ("done", "Done", "solid", ("#1a7f37", "#ffffff"), ("#238636", "#ffffff")),
     "status-failed": ("failed", "Failed", "solid", ("#cf222e", "#ffffff"), ("#da3633", "#ffffff")),
