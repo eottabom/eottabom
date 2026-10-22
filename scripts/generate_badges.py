@@ -38,6 +38,10 @@ BADGES = {
     "verdict-pass": ("pass", "Pass", "solid", ("#0969da", "#ffffff"), ("#1f6feb", "#ffffff")),
     "verdict-suggest": ("suggest", "Suggest changes", "solid", ("#ffd33d", "#1f2328"), ("#d29922", "#0d1117")),
     "verdict-must-fix": ("must fix", "Must fix", "solid", ("#cf222e", "#ffffff"), ("#da3633", "#ffffff")),
+    # 종합 평가: 판정·심각도(채움형), 코멘트 목록(테두리형)과 구분되도록 옅은 바탕에 진한 글자
+    "assess-good": ("good", "Good", "solid", ("#dafbe1", "#116329"), ("#12361f", "#56d364")),
+    "assess-warn": ("warn", "Warning", "solid", ("#fff1e5", "#953800"), ("#3d2410", "#f0883e")),
+    "assess-bad": ("bad", "Bad", "solid", ("#ffebe9", "#82071e"), ("#42161a", "#ff7b72")),
     "status-running": ("running", "Running", "solid", ("#9a6700", "#ffffff"), ("#bb8009", "#ffffff")),
     "status-done": ("done", "Done", "solid", ("#1a7f37", "#ffffff"), ("#238636", "#ffffff")),
     "status-failed": ("failed", "Failed", "solid", ("#cf222e", "#ffffff"), ("#da3633", "#ffffff")),
